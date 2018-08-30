@@ -140,5 +140,5 @@ ENV/
 # Ignore the dataset
 data/coco
 # Ignore .h5 files
-*.h5
+# *.h5
 *.hdf5
